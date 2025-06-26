@@ -1,4 +1,4 @@
-nsert- # include<iostream.h>
+nsert- # include iostream.h
   using namespace std;
 
 
